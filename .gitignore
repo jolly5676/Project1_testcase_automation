@@ -1,0 +1,12 @@
+.env.env
+venv/
+__pycache__/
+*.pyc
+generated_outputs/
+.streamlit/
+.env
+venv/
+__pycache__/
+*.pyc
+generated_outputs/
+.streamlit/

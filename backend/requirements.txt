@@ -1,0 +1,3 @@
+streamlitdir
+openai
+python-dotenv

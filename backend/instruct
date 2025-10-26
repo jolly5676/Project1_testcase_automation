@@ -1,0 +1,25 @@
+jamie rahman
+11:06 AM
+test you existing code to be working  in current location
+add .env  in .gitignore
+add .venv
+jamie rahman
+11:07 AM
+remove any key before commit
+git add  .   from folder where you git clone
+after coping all files
+git commit -m " added files"
+git push origin feature/branch
+jamie rahman
+11:08 AM
+next onwards , open the same branch in vscode and do modiifcation
+everyday push latest working code in branch
+if you want to do next feature deveopment , create new branch in  git repo and
+jamie rahman
+11:09 AM
+switch to branch before working using (git checkout  feature/branch
+always check which branch you are working with git branch command
+jamie rahman
+11:12 AM
+one file changes: git add filename
+follo with git commit and git push
